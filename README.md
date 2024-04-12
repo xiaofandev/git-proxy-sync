@@ -1,5 +1,8 @@
 # System Network Proxy Sync to Git
 
+- [English](readme.md)
+- [中文](readme.zh.md)
+
 A script for synchronizing your system's network proxy configuration to Git global proxy settings.
 Every time you change your system's network proxy settings, this script will automatically update your Git global proxy settings.you will no need to manually update your Git global proxy settings.
 
@@ -10,4 +13,4 @@ Every time you change your system's network proxy settings, this script will aut
 
 ## Note
 
-This script is designed to work on Windows operating systems.
+This script is designed to work on **_Windows_** operating systems.
