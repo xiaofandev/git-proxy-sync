@@ -1,7 +1,7 @@
 # 系统网络代理同步至 Git
 
-- [English](readme.md)
-- [中文](readme.zh.md)
+- [English](README.md)
+- [中文](README.zh.md)
 
 本脚本用于将您系统的网络代理配置同步至 Git 全局代理设置中。每当您更改系统网络代理设置时，此脚本会自动更新您的 Git 全局代理设置，从而无需手动调整。
 
